@@ -1,3 +1,4 @@
+This project was forked for personal data preservation.
 ### Ph055a's OSINT Collection
 
 This was once listed as an **Awesome List** but has since changed it due to copycats.
